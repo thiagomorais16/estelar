@@ -1,6 +1,7 @@
 # estelar
 landing page
-#detalhes
 
- foi criado um site baseado  na aula mas com funcionalidades de java script
+# detalhes
+
+<h1>foi criado um site baseado  na aula mas com funcionalidades de java script </h1>
  
